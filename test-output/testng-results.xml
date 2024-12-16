@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="16" total="17" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-16T11:56:48 IST" name="Default suite" finished-at="2024-12-16T11:56:57 IST" duration-ms="8866">
+    <groups>
+    </groups>
+    <test started-at="2024-12-16T11:56:48 IST" name="Default test" finished-at="2024-12-16T11:56:57 IST" duration-ms="8866">
+      <class name="com15dec.loginpage">
+        <test-method signature="removeoneItemfrotwolist()[pri:0, instance:com15dec.loginpage@a530d0a]" started-at="2024-12-16T11:56:48 IST" name="removeoneItemfrotwolist" finished-at="2024-12-16T11:56:57 IST" duration-ms="8781" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- removeoneItemfrotwolist -->
+      </class> <!-- com15dec.loginpage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
